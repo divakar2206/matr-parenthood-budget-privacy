@@ -6,3 +6,4 @@ To create your first budget:
 
 ### **What happens if my profile is incomplete after login?**
 If your profile is missing required information (like your display name or due date), the app will redirect you to the profile setup screen for onboarding before you can use other features.
+
