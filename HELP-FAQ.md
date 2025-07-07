@@ -1,3 +1,4 @@
+
 ### How do I create an account or log in?
 Open the app to see the authentication screen. You can:
 - Enter your email and password to log in.
