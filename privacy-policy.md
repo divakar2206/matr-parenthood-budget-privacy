@@ -1,6 +1,7 @@
 # Privacy Policy
 
 **MATR Parenthood Budget**  
+
 Last updated: July 5, 2025
 
 MATR Parenthood Budget ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application (“App”).
